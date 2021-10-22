@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body,
+section {
+  position: relative;
+  height: 100%;
+  margin-top: 10px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.Utama {
+  background-color: white;
+  height: 87vh;
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 650px;
+  height: 500px;
+}
+
+.tulisan {
+  color: #2c3131;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 50%;
+  padding-left: 70px;
+}
+
+.ilustrasi {
+  width: 50%;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bolder;
+  color: #3d2c8d;
+}

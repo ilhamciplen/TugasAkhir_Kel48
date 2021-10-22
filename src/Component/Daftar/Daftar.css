@@ -1,0 +1,43 @@
+.input {
+  background-color: #efdbff;
+  color: #4b0082;
+  margin: auto;
+  border-width: 0px;
+  height: 40px;
+  font-size: 15px;
+  padding-left: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.judul {
+  color: #772ed1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.select {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: #efdbff;
+  color: #4b0082;
+  margin: auto;
+  height: 40px;
+  font-size: 15px;
+}
+
+.pilihan {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hasil {
+  color: #ff7f50;
+  margin: auto;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.marquee {
+  font-weight: bold;
+  padding: 8px;
+}
